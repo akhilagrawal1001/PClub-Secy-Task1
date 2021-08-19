@@ -12,7 +12,7 @@
 
     The plot of ground truth v/s predicted value for test data ( generated in same manner as train data ) :
 
-    ![Image](assets\LR1.png)
+    ![Image](https://github.com/akhilagrawal1001/Pclub-Secy-Task1/blob/master/assets/LR1.png)
 
 2. Notebook2 : [Linear_Regression_2.ipynb](https://github.com/akhilagrawal1001/Pclub-Secy-Task1/blob/master/Linear_Regression_2.ipynb)
 
@@ -26,7 +26,7 @@
 
     The plot of ground truth v/s predicted value for test data ( generated in same manner as train data ) :
 
-    ![Image](assets\LR2.png)
+    ![Image](https://github.com/akhilagrawal1001/Pclub-Secy-Task1/blob/master/assets/LR2.png)
 
 3. Notebook3 : [Polynomial_regression_1.ipynb](https://github.com/akhilagrawal1001/Pclub-Secy-Task1/blob/master/Polynomial_regression_1.ipynb)
 
@@ -41,7 +41,7 @@
 
     The plot of ground truth v/s predicted value for test data ( generated in same manner as train data ) :
 
-    ![Image](assets\PR1.png)
+    ![Image](https://github.com/akhilagrawal1001/Pclub-Secy-Task1/blob/master/assets/PR1.png)
 
 4. Notebook4 : [Polynomial_Regression_2.ipynb](https://github.com/akhilagrawal1001/Pclub-Secy-Task1/blob/master/Polynomial_Regression_2.ipynb)
 
@@ -56,4 +56,4 @@
 
     The plot of ground truth v/s predicted value for test data ( generated in same manner as train data ) :
 
-    ![Image](assets\PR2.png)
+    ![Image](https://github.com/akhilagrawal1001/Pclub-Secy-Task1/blob/master/assets/PR2.png)
